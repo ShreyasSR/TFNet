@@ -27,6 +27,6 @@ RGBT-CC Dataset : Description, Link
 
 ### Code
 ![]()
-[<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png|width=100px">](https://github.com/ShreyasSR/TFNet)
+[<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width=100px>](https://github.com/ShreyasSR/TFNet)
 
 [//]: # (**Bold** and _Italic_ and `Code` text)
