@@ -11,7 +11,7 @@ Weights for pre-trained squeezenet model can be found [here](https://drive.googl
 
 ------------------------------
 
-To reproduce the results in the paper, change the paths given in train.py file and run it.
+To reproduce the results in the paper, change the paths given in train.py file provided in src and run it.
 
 ------------------------------
 
