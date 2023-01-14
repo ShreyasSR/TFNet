@@ -5,6 +5,12 @@ Official code of our paper titled "Conditional RGB-T Fusion for Effective Crowd 
 
 ------------------------------
 
+RGBT-CC dataset can be found [here](https://github.com/chen-judge/RGBTCrowdCounting).<br />
+RGBT images after RGF fusion can be found [here](https://drive.google.com/drive/folders/1kt1G34CcDf6TLXKGStxa-InYDkLwAT92?usp=sharing).<br />
+Saliency map results from PicaNet can be found [here](https://drive.google.com/drive/folders/15VzDiCiNzsODfo-lsPnW6nn42mQ9YvhV?usp=sharing).<br />
+
+------------------------------
+
 Weights for our final model can be found [here](https://drive.google.com/file/d/10BrC1XWS9X-STt_DuAFGl0UnWq1YZNF0/view?usp=sharing).<br />
 Weights for pre-trained picanet model can be found [here](https://drive.google.com/file/d/16sC8_0uLhwbJHEumNQiklGKgRzAb4bN4/view?usp=sharing).<br />
 Weights for pre-trained squeezenet model can be found [here](https://drive.google.com/file/d/1N-Lh6LXVfEweGRVWfvaHYVtzWuFha1_0/view?usp=sharing).<br />
